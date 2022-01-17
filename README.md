@@ -2,7 +2,7 @@
 Just simple trade calculation software.
 
 
-Linux buil:
+Linux build:
 
 g++ -fPIC -c mmcalc3.c\
 g++ -shared -o libmmcalc3.so mmcalc3.o\
