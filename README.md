@@ -10,4 +10,4 @@ qmake\
 make\
 cp ./lib/libmmcalc3.so ./\
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:./\
-./TradeCalculator\
+./TradeCalculator
