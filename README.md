@@ -7,7 +7,7 @@ Linux build:
 cd ./lib
 g++ -fPIC -c mmcalc3.c\
 g++ -shared -o libmmcalc3.so mmcalc3.o\
-cd ..
+cd ..\
 qmake\
 make\
 cp ./lib/libmmcalc3.so ./\
