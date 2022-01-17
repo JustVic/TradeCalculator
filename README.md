@@ -13,3 +13,6 @@ make\
 cp ./lib/libmmcalc3.so ./\
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:./\
 ./TradeCalculator
+
+Binary Windows .exe and Linux .deb package release
+https://justvic.gumroad.com/l/taflt
