@@ -1,0 +1,1 @@
+Very simple library for some trading calculation.
