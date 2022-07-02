@@ -15,4 +15,4 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:./\
 ./TradeCalculator
 
 Binary Windows .exe and Linux .deb package release:\
-https://justvic.gumroad.com/l/taflt
+https://plati.market/itm/trade-calculator/3388279
